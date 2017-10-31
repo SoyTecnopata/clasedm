@@ -3,11 +3,9 @@
 
 #include <ESP8266WiFi.h>
 
-//char ssid[] = "AXTEL XTREMO-4403";    //  your network SSID (name)
-//char pass[] = "03674403";   // your network password
+char ssid[] = "nombr";    //  your network SSID (name)
+char pass[] = "password";   // your network password
 
-char ssid[] = "ESTUDIANTES_CIA";    //  your network SSID (name)
-char pass[] = "*k%A2S!+";   // your network password
 int status = WL_IDLE_STATUS;
 WiFiClient  client;
 

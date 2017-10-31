@@ -9,7 +9,7 @@ int stateLED = LOW;
 
 
 
-const String HtmlHtml = "<html><head>"
+const String HtmlHtml = "<ht ml><head>"
     "<meta name='viewport' content='width=device-width, initial-scale=1' /></head>";
 const String HtmlTitle = "<h1>Arduino-er: ESP8266 AP WebServer exercise</h1><br/>\n";
 const String HtmlLedStateLow = "<big>LED is now <b>ON</b></big><br/>\n";
